@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd" />
 <!-- &theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
