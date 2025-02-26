@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LunaZyd&left_color=green&right_color=red)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
