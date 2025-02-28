@@ -15,7 +15,7 @@
   <div>
     <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue" />
     &emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=LunaZyd&label=Views&color=orange&style=flat" alt="访问量统计" />
     &emsp;
   </div>
 
