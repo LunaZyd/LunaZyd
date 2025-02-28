@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
