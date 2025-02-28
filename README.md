@@ -33,7 +33,7 @@
 # Hi there 👋 
 
 **🤺 About Me**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" align="right" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"  />
 
 嗨，我是*LunaZyd*。热爱编程、读书、健身、摄影。
 -   一个正在成长的菜鸟
@@ -56,10 +56,10 @@
   </tr>
 </table>
 </div>
-<div align="center" >
+<div align="center" ">
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&hide_title=true&theme=transparent&hide_border=true&langs_count=6&layout=compact" />
+<img width="50% height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
+<img width="49% height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&hide_title=true&theme=transparent&hide_border=true&langs_count=6&layout=compact" />
 
 </div>
   
