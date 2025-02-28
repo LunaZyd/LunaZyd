@@ -1,5 +1,12 @@
 <div align="center">
 
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);LunaZyd祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
+
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -13,6 +20,8 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
+    <img src="https://wakatime.com/badge/user/7335ce3d-c9f7-4672-b9e5-fb1582ba6df2.svg"/>
+    &emsp;
     <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue" />
     &emsp;
     <img src="https://komarev.com/ghpvc/?username=LunaZyd&label=Views&color=orange&style=flat" alt="访问量统计" />
@@ -26,16 +35,32 @@
 **🤺 About Me**
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" align="right" />
 
- 嗨，我是LunaZyd。热爱编程、读书、健身、摄影。
+嗨，我是*LunaZyd*。热爱编程、读书、健身、摄影。
 -   一个正在成长的菜鸟
- <p>&nbsp;</p>
+-   热爱计算机科学和 IT 互联网事业，希望成为一名优秀的开发者。
+## 📊 WakaTime
+<div align="center" >
+  
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<!-- 贡献图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LunaZyd&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LunaZyd&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaZyd&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+  
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&langs_count=6&layout=donut-vertical" />
 
-## 📊 GitHub 数据统计
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&locale=cn" />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
--->
+</div>
+  
 <!--START_SECTION:waka-->
 
 ```txt
@@ -48,10 +73,6 @@ JAVA    0 hrs 0 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
-
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={THE END}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Just Do It}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
