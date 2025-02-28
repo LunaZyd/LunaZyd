@@ -22,7 +22,26 @@
 </div>
 
 # Hi there 👋 
+<table>
+  
+<tr><td>
 
+### 🤺 About Me
+
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+
+<p>&emsp;&emsp;嗨，我是LunaZyd。热爱编程、读书、健身、摄影。</p>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+</table>
+
+
+## 📊 GitHub 数据统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" />
 <!--START_SECTION:waka-->
