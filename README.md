@@ -33,7 +33,6 @@
 <p>&emsp;&emsp;嗨，我是LunaZyd。热爱编程、读书、健身、摄影。</p>
 
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
 
 </td></tr>
 
