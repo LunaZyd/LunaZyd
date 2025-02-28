@@ -28,8 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact" align="right" />
 
 <p>&emsp;&emsp;嗨，我是LunaZyd。热爱编程、读书、健身、摄影。</p>
-
-
+<p>&nbsp;</p>
+ - 一个正在成长的菜鸟
 
 ## 📊 GitHub 数据统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
