@@ -31,8 +31,11 @@
  <p>&nbsp;</p>
 
 ## 📊 GitHub 数据统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&locale=cn" />
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
+-->
 <!--START_SECTION:waka-->
 
 ```txt
