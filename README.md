@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue)
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={THE END}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Just Do It}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
