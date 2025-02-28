@@ -28,7 +28,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" />
 
 <p>&emsp;&emsp;嗨，我是LunaZyd。热爱编程、读书、健身、摄影。</p>
 
