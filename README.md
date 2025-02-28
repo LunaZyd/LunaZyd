@@ -59,7 +59,7 @@
 <div align="center" >
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&langs_count=6&layout=donut-vertical" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&hide_title=true&theme=transparent&hide_border=true&langs_count=6&layout=compact" />
 
 </div>
   
