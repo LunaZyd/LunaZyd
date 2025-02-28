@@ -38,7 +38,6 @@
 嗨，我是*LunaZyd*。热爱编程、读书、健身、摄影。
 -   一个正在成长的菜鸟
 -   热爱计算机科学和 IT 互联网事业，希望成为一名优秀的开发者。
-## 📊 WakaTime
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center" >
@@ -56,7 +55,8 @@
       </picture>
   </tr>
 </table>
-  
+</div>
+<div align="center" >
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&langs_count=6&layout=donut-vertical" />
