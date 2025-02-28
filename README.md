@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" />
 <!--START_SECTION:waka-->
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue)
