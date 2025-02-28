@@ -39,6 +39,8 @@
 -   一个正在成长的菜鸟
 -   热爱计算机科学和 IT 互联网事业，希望成为一名优秀的开发者。
 ## 📊 WakaTime
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center" >
   
 <!-- run 图片 -->
@@ -74,6 +76,3 @@ JAVA    0 hrs 0 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={THE END}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Just Do It}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
