@@ -24,7 +24,8 @@
 # Hi there 👋 
 <table>
   
-<tr><td>
+<tr>
+  <td>
 
 ### 🤺 About Me
 
@@ -34,9 +35,8 @@
 
   <!-- for beauty 留个空行好看点 -->
 
-</td></tr>
-
-<tr><td>
+</td>
+</tr>
 </table>
 
 
