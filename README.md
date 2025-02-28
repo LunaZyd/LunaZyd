@@ -31,11 +31,14 @@
 # Hi there 👋 
 
 **🤺 About Me**
-<img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"  />
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"  />
 
 嗨，我是*LunaZyd*。热爱编程、读书、健身、摄影。
 -   一个正在成长的菜鸟
 -   热爱计算机科学和 IT 互联网事业，希望成为一名优秀的开发者。
+
+  
+<!-- 彩色分割线 -->
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center" >
