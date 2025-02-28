@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/LunaZyd/interval:all_time&label=All%20time&color=blue
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaZyd&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&theme=transparent&hide_border=true&layout=donut-vertical" />
 <!--START_SECTION:waka-->
