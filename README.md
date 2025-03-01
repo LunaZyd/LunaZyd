@@ -60,8 +60,8 @@
 </div>
 <div align="center" ">
 <!-- GitHub 数据统计 -->
-<img width="50% height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
-<img width="49% height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&hide_title=true&theme=transparent&hide_border=true&langs_count=6&layout=compact" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=LunaZyd&hide_title=true&hide_border=true&show_icons=true&line_height=21&locale=cn&theme=transparent" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaZyd&layout=compact&hide_title=true&theme=transparent&hide_border=true&langs_count=6" />
 
 </div>
   
@@ -76,6 +76,5 @@ Vue               0 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
