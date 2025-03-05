@@ -1,10 +1,11 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
+  <!-- 
   <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);//允许自己从Hello Bug开始&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Code向熵减，人向光！&center=true&size=27" />
   </div>
-
+-->
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -58,6 +59,8 @@
   </tr>
 </table>
 </div>
+
+## 年度总结🌱
 <div align="center"  >
 <!-- GitHub 数据统计 -->
 
