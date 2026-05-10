@@ -9,7 +9,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <!--source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" /-->
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
@@ -32,7 +32,7 @@
 # Hi there 👋 
 
 **🤺 About Me**
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"  />
+<!--img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaZyd&api_domain=wakapi.dev&bg_color=FFFFF0&title_color=2F855A&icon_color=2F855A&text_color=556B2F&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact"  /-->
 
 嗨，我是*LunaZyd*。热爱编程、读书、健身、摄影。
 -   一个正在成长的菜鸟
@@ -61,11 +61,6 @@
 </div>
 
 
-  
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
 
 
 <!--## 年度总结🌱-->
